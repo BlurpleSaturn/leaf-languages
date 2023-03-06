@@ -17,8 +17,6 @@ Give a ⭐️ if this project helped you!
 
 # Contributors
 
-For information on contributing to this project, please see [CONTRIBUTING.md](/CONTRIBUTING.md).
-
 [![Contributors][contributors-image]][contributors-link]
 
 [contributors-image]: https://contrib.rocks/image?repo=blurplesaturn/leaf-languages
