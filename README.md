@@ -1,4 +1,5 @@
 # leaf-languages
+
 > This is the official repo for Leaf's languages based on community translations
 
 #### Copy english.json and translate its contents. Then, create a new file called danish.json, for example.
@@ -9,7 +10,7 @@
 
 ### Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this project helped you! You need to be a part of the Discord to claim your contributor role!
 
 [![DiscordBanner](https://invidget.switchblade.xyz/TKz7BMwEap)](https://discord.gg/TKz7BMwEap)
 
