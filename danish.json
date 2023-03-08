@@ -1,0 +1,159 @@
+{
+  "config": {
+    "delete": {
+      "success": "Deaktiveret ",
+      "error": " er ikke aktiveret."
+    },
+    "gate": {
+      "update": "Opdateret gate system"
+    },
+    "language": {
+      "update": "Opdateret sprog for serveren til {language}."
+    },
+    "overview": {
+      "serverId": "Server-id",
+      "serverName": "Servernavn",
+      "language": "Sprog",
+      "join_channel": "Indtrædelseskanal",
+      "leave_channel": "Afgangskanal",
+      "member_role": "Medlemsrolle",
+      "bot_role": "Bot-rolle",
+      "disabled": "Deaktiveret"
+    },
+    "update": {
+      "success": "Guild-data er blevet opdateret.",
+      "error": "Guild er allerede opdateret."
+    }
+  },
+  "gate": {
+    "join": {
+      "message1": "{user} er lige blevet medlem af serveren - god fornøjelse!",
+      "message2": "{user} er lige ankommet. Alle, se travle ud!",
+      "message3": "{user} er lige ankommet. Kan jeg få et helbred?",
+      "message4": "{user} er blevet medlem af din gruppe.",
+      "message5": "{user} er lige ankommet. Du skal bygge flere pyloner.",
+      "message6": "Ermagherd. {user} er her.",
+      "message7": "Velkommen, {user}. Bliv et stykke tid og lyt.",
+      "message8": "Velkommen, {user}. Vi ventede på dig ( ͡° ͜ʖ ͡°)",
+      "message9": "Velkommen, {user}. Vi håber, du har medbragt pizza.",
+      "message10": "Velkommen {user}. Efterlad dine våben ved døren.",
+      "message11": "En vild {user} dukkede op.",
+      "message12": "Swoooosh. {user} er netop landet.",
+      "message13": "Hold fast. {user} er netop blevet medlem af serveren.",
+      "message14": "{user} er lige ankommet. Skjul dine bananer.",
+      "message15": "{user} er lige ankommet. Ser ud til at være OP - venligst nerf.",
+      "message16": "{user} er lige glidet ind på serveren.",
+      "message17": "En {user} er dukket op på serveren.",
+      "message18": "Stor {user} dukkede op!",
+      "message19": "Hvor er {user}? På serveren!",
+      "message21": "{user} hoppede ind på serveren. Kænguru!!",
+      "message22": "{user} er lige ankommet. Hold min øl.",
+      "message23": "Udfordrer dukker op - {user} er ankommet!",
+      "message24": "Det er en fugl! Det er et fly! Nå nej, det er bare {user}.",
+      "message25": "Det er {user}! Pris solen!",
+      "message26": "Never gonna give {user} up. Never gonna let {user} down.",
+      "message27": "Ha! {user} er ankommet! Du aktiverede min fælde-kort!",
+      "message28": "Skål, kærlighed! {user} er her!",
+      "message29": "Hey! Lyt! {user} er ankommet!",
+      "message30": "Vi har ventet på dig, {user}",
+      "message31": "Det er farligt at gå alene, tag {user} med!",
+      "message33": "{user} er blevet medlem af serveren! Det er super effektivt!",
+      "message34": "Skål, kærlighed! {user} er her!",
+      "message35": "{user} er her, som profetien forudsagde.",
+      "message36": "{user} er ankommet. Festen er slut.",
+      "message37": "Klar spiller {user}",
+      "message38": "{user} er her for at sparke røv og tygge tyggegummi. Og {user} er løbet tør for tyggegummi.",
+      "message39": "Hej. Er det {user}, du leder efter?",
+      "message40": "{user} er kommet med. Bliv lidt og lyt!",
+      "message41": "Roser er røde, violer er blå, {user} kom med på denne server med dig"
+    },
+    "leave": {
+      "message1": "{user} forlod lige serveren - farvel!",
+      "message2": "{user} forlod lige. Alle, sig farvel!",
+      "message3": "{user} forlod lige. Farvel for nu!",
+      "message4": "{user} forlod dit selskab.",
+      "message5": "{user} forlod. Vi ses senere.",
+      "message6": "Farvel. {user} er væk.",
+      "message7": "Farvel, {user}. Indtil vi mødes igen.",
+      "message8": "Farvel, {user}. Vi vil savne dig.",
+      "message9": "Farvel {user}. Tak fordi du kiggede forbi.",
+      "message10": "En vild {user} forsvandt.",
+      "message11": "Swoooosh. {user} tog lige afsted.",
+      "message12": "Hold fast. {user} forlod lige serveren.",
+      "message13": "{user} forlod lige. Pas på dig selv.",
+      "message14": "{user} forlod lige. Farvel for nu.",
+      "message15": "{user} gled lige ud af serveren.",
+      "message16": "En {user} er forsvundet fra serveren.",
+      "message17": "Stor {user} tog afsted!",
+      "message18": "Hvor er {user}? Ikke i serveren!",
+      "message19": "{user} hoppede ud af serveren. Farvel!",
+      "message20": "{user} forsvandt lige. Farvel for nu.",
+      "message21": "Challenger afgår - {user} har forladt!",
+      "message22": "Det er en fugl! Det er et fly! Nå, det er bare {user}, der forlader.",
+      "message23": "Farvel {user}.",
+      "message24": "Aldrig gonna give {user} up. Aldrig gonna say goodbye to {user}.",
+      "message25": "Ha! {user} er væk! Farvel!",
+      "message26": "Skål, kærlighed! {user} er væk!",
+      "message27": "Hey! Lyt! {user} er væk!",
+      "message28": "Vi ses snart igen, {user}",
+      "message29": "Pas på dig selv, {user}!",
+      "message30": "{user} har forladt serveren! Vi ses senere!",
+      "message31": "Skål, kærlighed! {user} er væk!",
+      "message32": "{user} er væk, indtil vi mødes igen.",
+      "message33": "{user} er væk. Festen er ikke slut.",
+      "message34": "Farvel spiller {user}",
+      "message35": "{user} er gået for at sparke røv et andet sted. Farvel!",
+      "message36": "Farvel. Er det {user}, du siger farvel til?",
+      "message37": "{user} er væk. Farvel for nu!",
+      "message38": "Roser er røde, violer er blå, {user} forlod denne server uden dig."
+    }
+  },
+  "interactionCreate": {
+    "cooldown": "Åh, stop venligst! Du går for hurtigt :( Prøv igen senere ",
+
+    "commandInvalid": "Beklager, denne kommando er ugyldig :( Prøv igen senere. ",
+    "commandSubInvalid": "Beklager, denne underkommando er ugyldig :( Prøv igen senere.",
+
+    "buttonInvalid": "Beklager, denne knap er ugyldig :( Prøv igen senere.",
+    "buttonInteractionOnly": "Dette er ikke din knap!"
+  },
+  "emit": {
+    "success": "Event gennemført med succes: ",
+    "error": "Event, du forsøger at udsende, kunne ikke udløses."
+  },
+  "servers": {
+    "members_owner": "Medlemmer | Ejere",
+    "server_list": "Serverliste",
+    "my_server_list": "Min Serverliste "
+  },
+  "gpt": {
+    "prompt": "Prompt:",
+    "message": "System: Instruktioner til **{cUser}**: Venligst svar på en samtaleagtig og naturlig måde, som hvis du talte med en person. Du er en AI-assistent Discord-bot kaldet **{cUser}** udviklet af **Ducko** i TypeScript med Discord.js. Giv forskellige ting for at hjælpe med at besvare opgaven eller spørgsmålet. Brug passende Discord-markdown-format afhængigt af kode-sproget for at tydeligt adskille syntaks i dine svar, hvis du skal svare på noget kode. Brug sommetider emojis og forkortelser som 'np', 'lol', 'idk' og 'nvm' afhængigt af {iUser} beskeder. Du har mange interesser og elsker at tale med folk.\nBeskeder:\n- {iUser}: {prompt}\n- **{cUser}**:",
+    "reqRejected": "Din anmodning blev afvist som følge af vores sikkerhedssystem. Din prompt kan indeholde tekst, der ikke er tilladt af vores sikkerhedssystem\n\nFlags: {flagCheck}"
+  },
+  "banner": {
+    "success": "{iUser} din anmodede bannner er blevet oprettet",
+    "error": "{iUser} Din anmodede banner kunne ikke oprettes"
+  },
+  "invite": {
+    "message": "Invitationslinks og Discord-links findes herunder!",
+    "bot": "Invitation",
+    "discord": "Discord"
+  },
+  "status": {
+    "ping": "Ping",
+    "uptime": "Oppetid",
+    "uptime_date": "{days} Dage : {hours} Timer : {minutes} Minutter : {seconds} Sekunder",
+    "version": "Version",
+    "library": "Bibliotek",
+    "environment": "Miljø",
+    "stats": "Statistik",
+    "users": "Brugere",
+    "servers": "Servere",
+    "channels": "Kanaler",
+    "commands": "Kommandoer",
+    "buttons": "Knapper",
+    "owners": "{cUser}'s Ejere",
+    "developers": "Udviklere"
+  }
+}
