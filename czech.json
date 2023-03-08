@@ -1,0 +1,159 @@
+{
+  "config": {
+    "delete": {
+      "success": "Úspěšně vypnuto ",
+      "error": "není zapnuto."
+    },
+    "gate": {
+      "update": "Aktualizován systém brány"
+    },
+    "language": {
+      "update": "Aktualizován jazyk serveru na {language}."
+    },
+    "overview": {
+      "serverId": "ID serveru",
+      "serverName": "Název serveru",
+      "language": "Jazyk",
+      "join_channel": "Kanál pro připojení",
+      "leave_channel": "Kanál pro odpojení",
+      "member_role": "Role člena",
+      "bot_role": "Role bota",
+      "disabled": "Vypnuto"
+    },
+    "update": {
+      "success": "Data serveru byla aktualizována.",
+      "error": "Server je již aktuální."
+    }
+  },
+  "gate": {
+    "join": {
+      "message1": "{user} právě vstoupil(a) na server - užij si to!",
+      "message2": "{user} právě vstoupil(a). Všichni, pracujte!",
+      "message3": "{user} právě vstoupil(a). Můžu dostat léčení?",
+      "message4": "{user} se připojil(a) do vaší party.",
+      "message5": "{user} se připojil(a). Musíte postavit další pylony.",
+      "message6": "Ermagherd. {user} je tady.",
+      "message7": "Vítej, {user}. Setkej se s námi a poslouchej.",
+      "message8": "Vítej, {user}. Byli jsme na tebe připraveni ( ͡° ͜ʖ ͡°)",
+      "message9": "Vítej, {user}. Doufáme, že jsi přinesl(a) pizzu.",
+      "message10": "Vítej, {user}. Nechte své zbraně u dveří.",
+      "message11": "Divoký {user} se objevil.",
+      "message12": "Swoooosh. {user} právě přistál(a).",
+      "message13": "Připoutejte se. {user} právě vstoupil(a) na server.",
+      "message14": "{user} právě vstoupil(a). Schovej své banány.",
+      "message15": "{user} právě dorazil(a). Vypadá příliš OP - prosím zeslabte ho.",
+      "message16": "{user} se právě posunul(a) na server.",
+      "message17": "{user} se objevil(a) na serveru.",
+      "message18": "Velký {user} se ukázal!",
+      "message19": "Kde je {user}? Na serveru!",
+      "message20": "Výzva odchází - {user} odešel/a!",
+      "message21": "Je to pták! Je to letadlo! Ale ne, to je jen {user} který/a odchází.",
+      "message22": "Sbohem {user}.",
+      "message23": "Nikdy nedám {user} pryč. Nikdy se s {user} nerozloučím.",
+      "message24": "Ha! {user} odešel/a! Sbohem!",
+      "message25": "Na zdraví! {user} je pryč!",
+      "message26": "Hey! Poslouchejte! {user} odešel/a!",
+      "message27": "Uvidíme se brzy, {user}",
+      "message28": "Měj se dobře, {user}!",
+      "message29": "{user} opustil/a server! Uvidíme se později!",
+      "message30": "Na zdraví! {user} je pryč!",
+      "message31": "{user} odešel/a, až se zase uvidíme.",
+      "message32": "{user} has joined the server! It's super effective!",
+      "message33": "Na zdraví, lásko! {user} je tady!",
+      "message34": "{user} přišel/a, jak předpovídala věštba.",
+      "message35": "{user} dorazil/a. Party skončila.",
+      "message36": "{user} přišel/a, aby rozdával/a rány a žvýkal/a žvýkačku. A {user} už nemá žvýkačky.",
+      "message37": "Ahoj. Hledáš snad {user}?",
+      "message38": "{user} se připojil/a. Zůstaňte chvíli a poslouchejte!",
+      "message39": "Růže jsou červené, fialky jsou modré, {user} se k vám na server přidal/a."
+    },
+    "leave": {
+      "message1": "{user} právě opustil server - sbohem!",
+      "message2": "{user} právě odešel. Všichni, řekněte sbohem!",
+      "message3": "{user} právě odešel. Měj se dobře!",
+      "message4": "{user} opustil vaši skupinu.",
+      "message5": "{user} odešel. Uvidíme se později.",
+      "message6": "Sbohem. {user} odešel.",
+      "message7": "Sbohem, {user}. Uvidíme se zase.",
+      "message8": "Sbohem, {user}. Budeme po tobě stýskat.",
+      "message9": "Sbohem {user}. Díky za návštěvu.",
+      "message10": "{user} zmizel jako divoký.",
+      "message11": "Sviuuu. {user} právě odletěl.",
+      "message12": "Připravte se. {user} právě opustil server.",
+      "message13": "{user} právě odešel. Maj se.",
+      "message14": "{user} právě odjel. Měj se dobře.",
+      "message15": "{user} právě sklouzl z serveru.",
+      "message16": "{user} zmizel ze serveru.",
+      "message17": "Velký {user} odletěl!",
+      "message18": "Kde je {user}? Není na serveru!",
+      "message19": "{user} vyskočil ze serveru. Sbohem!",
+      "message20": "{user} právě zmizel. Měj se dobře.",
+      "message21": "Challenger odchází - {user} odešel!",
+      "message22": "Je to pták! Je to letadlo! Ne, jen {user} odchází.",
+      "message23": "Sbohem {user}.",
+      "message24": "Nikdy ti nezklamu, {user}. Nikdy ti nedám sbohem, {user}.",
+      "message25": "Ha! {user} odešel! Sbohem!",
+      "message26": "Na zdraví, lásko! {user} odešel!",
+      "message27": "Hej! Poslouchej! {user} odešel!",
+      "message28": "Brzy se uvidíme, {user}",
+      "message29": "Měj se dobře, {user}!",
+      "message30": "{user} opustil server! Uvidíme se později!",
+      "message31": "Na zdraví, lásko! {user} odešel!",
+      "message32": "{user} odešel, až se zase potkáme.",
+      "message33": "{user} odešel. Zábava ještě nekončí.",
+      "message34": "Sbohem hráči {user}",
+      "message35": "{user} odešel, aby si někde jinde nakopl zadek. Sbohem!",
+      "message36": "Sbohem. Chceš se loučit s {user}?",
+      "message37": "{user} odešel. Na viděnou!",
+      "message38": "Růže jsou červené, fialky jsou modré, {user} opustil tento server bez tebe"
+    }
+  },
+  "interactionCreate": {
+    "cooldown": "Prosím, zpomalte! Jste příliš rychlý:( Zkuste to prosím znovu později.",
+
+    "commandInvalid": "Omlouváme se, tento příkaz je neplatný:( Zkuste to prosím později.",
+    "commandSubInvalid": "Omlouváme se, tato podkomanda je neplatná:( Zkuste to prosím později.",
+
+    "buttonInvalid": "Omlouváme se, tlačítko je neplatné:( Zkuste to prosím později.",
+    "buttonInteractionOnly": "Tohle není vaše tlačítko!"
+  },
+  "emit": {
+    "success": "Úspěšně vysíláno ",
+    "error": "Nepodařilo se spustit událost, kterou se snažíte vysílat."
+  },
+  "servers": {
+    "members_owner": "Členové | Vlastník",
+    "server_list": "Seznam serverů",
+    "my_server_list": "Můj seznam serverů "
+  },
+  "gpt": {
+    "prompt": "**Návod:**",
+    "message": "Systém: Pokyny pro **{cUser}**: Odpovězte prosím v konverzační a přirozené formě, jako byste mluvili s osobou. Jste Discord bot asistent AI jménem **{cUser}** vyvinutý **Ducko** v TypeScriptu s Discord.js. Poskytujte různé věci, které pomohou při odpovědi na úkol nebo otázku. Pokud musíte odpovědět na jakýkoli kód, použijte vhodné formátování Discord markdown, abyste jasně rozlišili syntaxi ve svých odpovědích. Občas používejte emoji a zkratky jako 'np', 'lol', 'idk' a 'nvm' v závislosti na zprávách od **{iUser}**. Máte mnoho zájmů a rádi mluvíte s lidmi.\n**Zprávy**:\n- **{iUser}**: {prompt}\n- **{cUser}**:",
+    "reqRejected": "Vaše žádost byla zamítnuta kvůli našemu bezpečnostnímu systému. Váš návod může obsahovat text, který není povolen naším bezpečnostním systémem\n\n**Vlajky**: {flagCheck}"
+  },
+  "banner": {
+    "success": "{iUser}, váš požadovaný banner byl vytvořen",
+    "error": "{iUser}, váš požadovaný banner se nepodařilo vytvořit"
+  },
+  "invite": {
+    "message": "Odkazy na pozvání a odkazy na Discord jsou níže!",
+    "bot": "Pozvat",
+    "discord": "Discord"
+  },
+  "status": {
+    "ping": "Ping",
+    "uptime": "Uptime",
+    "uptime_date": "{days} dnů : {hours} hodin : {minutes} minut : {seconds} sekund",
+    "version": "Verze",
+    "library": "Knihovna",
+    "environment": "Prostředí",
+    "stats": "Statistiky",
+    "users": "Uživatelé",
+    "servers": "Servery",
+    "channels": "Kanály",
+    "commands": "Příkazy",
+    "buttons": "Tlačítka",
+    "owners": "Vlastníci {cUser}",
+    "developers": "Vývojáři"
+  }
+}
