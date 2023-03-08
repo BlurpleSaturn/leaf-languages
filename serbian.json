@@ -1,0 +1,158 @@
+{
+  "config": {
+    "delete": {
+      "success": "Uspješno onemogućeno ",
+      "error": " nije omogućeno."
+    },
+    "gate": {
+      "update": "Ažuriran sustav vrata"
+    },
+    "language": {
+      "update": "Ažuriran jezik poslužitelja na {language}."
+    },
+    "overview": {
+      "serverId": "ID poslužitelja",
+      "serverName": "Ime poslužitelja",
+      "language": "Jezik",
+      "join_channel": "Kanal priključenja",
+      "leave_channel": "Kanal napuštanja",
+      "member_role": "Uloga člana",
+      "bot_role": "Uloga robota",
+      "disabled": "Onemogućeno"
+    },
+    "update": {
+      "success": "Podaci poslužitelja su ažurirani.",
+      "error": "Poslužitelj je već ažuriran"
+    }
+  },
+  "gate": {
+    "join": {
+      "message1": "{user} se upravo pridružio/la serveru - srećno se igraj!",
+      "message2": "{user} se upravo pridružio/la. Svi se pravite zauzetim!",
+      "message3": "{user} se upravo pridružio/la. Može li mi neko pomoći?",
+      "message4": "{user} se pridružio/la tvom timu.",
+      "message5": "{user} se pridružio/la. Treba ti još nekoliko pylon-a.",
+      "message6": "Ermagherd. {user} je tu.",
+      "message7": "Dobrodošao/la, {user}. Ostanite malo i poslušajte.",
+      "message8": "Dobrodošao/la, {user}. Očekivali smo te ( ͡° ͜ʖ ͡°)",
+      "message9": "Dobrodošao/la, {user}. Nadamo se da si donio/la pizzu.",
+      "message10": "Dobrodošao/la, {user}. Ostavi oružje na vratima.",
+      "message11": "Divlja {user} se pojavila u serveru.",
+      "message12": "Swoooosh. {user} se upravo spustio/la.",
+      "message13": "Pripremite se. {user} se upravo pridružio/la serveru.",
+      "message14": "{user} se upravo pridružio/la. Sakrijte svoje banane.",
+      "message15": "{user} upravo je stigao/la. Izgleda OP - molimo umanjiti.",
+      "message16": "{user} upravo je skliznuo/la u server.",
+      "message17": "{user} se pojavio/la na serveru.",
+      "message18": "Veliki {user} se pojavio/la!",
+      "message19": "Gde je {user}? Na serveru!",
+      "message21": "{user} je skočio/la na server. Kengur!!",
+      "message22": "{user} upravo se pojavio/la. Držite mi pivo.",
+      "message23": "Izazivač se pojavljuje - {user} se pojavio/la!",
+      "message24": "To je ptica! To je avion! Zaboravite to, to je samo {user}.",
+      "message25": "To je {user}! Hvala suncu!",
+      "message26": "Nikad te neću izdati {user}. Nikad te neću ostaviti.",
+      "message27": "Ha! {user} se pridružio/la! Aktivirao/la si moju zamku!",
+      "message28": "Zdravo, ljubavi! {user} je stigao/la!",
+      "message29": "Hej! Slušaj! {user} se pridružio/la!",
+      "message30": "Očekivali smo te {user}.",
+      "message31": "Opasno je ići sam, uzmi {user}-a!",
+      "message33": "{user} se pridružio/la serveru! To je super efektivno!",
+      "message34": "Živeli, ljubavi! {user} je stigao/la!",
+      "message35": "{user} je tu, kao što je proročanstvo predvidelo.",
+      "message36": "{user} je stigao/la. Zabava je gotova.",
+      "message37": "Spreman igrač {user}",
+      "message38": "{user} je ovde da bi pokorio i žvakao žvake. A {user} je ostao bez žvaka.",
+      "message39": "Zdravo. Da li tražiš {user}-a?",
+      "message40": "{user} se pridružio/la. Ostani malo i poslušaj!",
+      "message41": "Ruže su crvene, ljubičice su plave, {user} se pridružio/la ovom serveru s tobom"
+    },
+    "leave": {
+      "message1": "{user} je napustio/la server - doviđenja!",
+      "message2": "{user} je upravo otišao/la. Svi, kažite zbogom!",
+      "message3": "{user} je upravo otišao/la. Doviđenja za sada!",
+      "message4": "{user} je napustio/la vašu grupu.",
+      "message5": "{user} je otišao/la. Vidimo se kasnije.",
+      "message6": "Doviđenja. {user} je otišao/la.",
+      "message7": "Zbogom, {user}. Do sledećeg susreta.",
+      "message8": "Zbogom, {user}. Nedostajaćeš nam.",
+      "message9": "Doviđenja {user}. Hvala što si svratio/la.",
+      "message10": "Divlji {user} se povukao/la.",
+      "message11": "Sviiissssh. {user} je upravo poleteo/la.",
+      "message12": "Držite se. {user} je upravo napustio/la server.",
+      "message13": "{user} je otišao/la. Budi oprezan/na.",
+      "message14": "{user} se upravo oprostio/la. Doviđenja za sada.",
+      "message15": "{user} se upravo iskliznuo/la iz servera.",
+      "message16": "Jedan {user} se izgubio/la sa servera.",
+      "message17": "Veliki {user} je poleteo/la!",
+      "message18": "Gde je {user}? Nema ga/gi u serveru!",
+      "message19": "{user} je iskočio/la iz servera. Doviđenja!",
+      "message20": "{user} se upravo izgubio/la. Doviđenja za sada.",
+      "message21": "Napušta izazov - {user} odlazi!",
+      "message22": "To je ptica! To je avion! Ne, samo je {user} koji odlazi.",
+      "message23": "Doviđenja {user}.",
+      "message24": "Nikad neću napustiti {user}. Nikad neću reći zbogom {user}.",
+      "message25": "Ha! {user} je otišao/la! Doviđenja!",
+      "message26": "Živeli, ljubavi! {user} je otišao/la!",
+      "message27": "Hej! Slušaj! {user} je otišao/la!",
+      "message28": "Vidimo se uskoro, {user}",
+      "message29": "Budi oprezan/na, {user}!",
+      "message30": "{user} je napustio/la server! Vidimo se kasnije!",
+      "message31": "Živeli, ljubavi! {user} je otišao/la!",
+      "message32": "{user} je otišao/la, do sledećeg susreta.",
+      "message33": "{user} je otišao/la. Žurka nije gotova.",
+      "message34": "Doviđenja igraču {user}",
+      "message35": "{user} je otišao/la da pokori druga područja. Doviđenja!",
+      "message36": "Doviđenja. Da li se opraštaš od {user}?",
+      "message37": "{user} je otišao/la. Doviđenja za sada!",
+      "message38": "Ruže su crvene, ljubičice su plave, {user} je napustio/la ovaj server bez tebe."
+    }
+  },
+  "interactionCreate": {
+    "cooldown": "Molimo Vas da prestanete! Prebrzo idete:( Molimo Vas pokušajte ponovo ",
+    "commandInvalid": "Žao nam je, ova komanda nije važeća:( Molimo Vas pokušajte kasnije.",
+    "commandSubInvalid": "Žao nam je, ova podkomanda nije važeća:( Molimo Vas pokušajte kasnije.",
+
+    "buttonInvalid": "Žao nam je, ovaj dugme nije važeće:( Molimo Vas pokušajte kasnije.",
+    "buttonInteractionOnly": "Ovo nije Vaše dugme!"
+  },
+  "emit": {
+    "success": "Uspješno emitovano ",
+    "error": "Događaj koji pokušavate emitovati nije moguće pokrenuti."
+  },
+  "servers": {
+    "members_owner": "Članovi | Vlasnik",
+    "server_list": "Lista servera",
+    "my_server_list": "Moja lista servera"
+  },
+  "gpt": {
+    "prompt": "**Prompt:**",
+    "message": "Sistem: Uputstva za **{cUser}**: Molimo Vas da odgovarate na način koji je prirodan za razgovor s osobom, ako biste razgovarali s nekim. Vi ste AI asistent Discord bota koji se zove **{cUser}** razvijen od strane **Ducko** u TypeScript s Discord.js. Pružite različite informacije za pomoć pri odgovoru na zadatak ili pitanje. Koristite odgovarajuće Discord Markdown formatiranje koje zavisi od jezika programiranja da biste jasno razlikovali sintaksu u Vašim odgovorima ako trebate da odgovorite bilo kakvim kodom. Ponekad koristite emodžije i kratice poput 'np', 'lol', 'idk' i 'nvm' u zavisnosti od poruka koje stižu od **{iUser}**. Imate mnogo interesovanja i volite razgovarati s ljudima.\nPoruke:\n- {iUser}: {prompt}\n- {cUser}:",
+    "reqRejected": "Vaš zahtev je odbijen zbog našeg sistema za bezbednost. Vaš prompt može sadržati tekst koji nije dozvoljen od strane našeg sistema za bezbednost.\n\n**Zastavice**: {flagCheck}"
+  },
+  "banner": {
+    "success": "{iUser} Vaš zahtevani baner je kreiran",
+    "error": "{iUser} Vaš zahtevani baner nije mogao biti napravljen"
+  },
+  "invite": {
+    "message": "Linkovi za pozivanje i Discord linkovi su ispod!",
+    "bot": "Pozovi",
+    "discord": "Discord"
+  },
+  "status": {
+    "ping": "Ping",
+    "uptime": "Uptime",
+    "uptime_date": "{days} Dana : {hours} Sat : {minutes} Minuta : {seconds} Sekundi",
+    "version": "Verzija",
+    "library": "Biblioteka",
+    "environment": "Okruženje",
+    "stats": "Statistika",
+    "users": "Korisnici",
+    "servers": "Serveri",
+    "channels": "Kanali",
+    "commands": "Komande",
+    "buttons": "Dugmad",
+    "owners": "{cUser} Vlasnici",
+    "developers": "Programeri"
+  }
+}
