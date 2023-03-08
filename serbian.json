@@ -122,7 +122,7 @@
   "servers": {
     "members_owner": "Članovi | Vlasnik",
     "server_list": "Lista servera",
-    "my_server_list": "Moja lista servera"
+    "my_server_list": "Moja lista servera "
   },
   "gpt": {
     "prompt": "**Prompt:**",
