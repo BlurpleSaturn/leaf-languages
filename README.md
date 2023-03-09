@@ -24,6 +24,6 @@ To stay updated with the latest news and updates regarding Leaf Bot, please join
 
 ## **Contributors**
 
-<a href="https://github.com/BlurpleSaturn/leaf-languages/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BlurpleSaturn/leaf-languages" />
+<a href="https://github.com/blurplesaturn/leaf-languages/graphs/contributors">
+  <img src="https://stg.contrib.rocks/image?repo=blurplesaturn/leaf-languages" />
 </a>
