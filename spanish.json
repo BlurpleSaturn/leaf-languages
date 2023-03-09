@@ -1,0 +1,161 @@
+{
+  "config": {
+    "delete": {
+      "success": "Se ha deshabilitado correctamente ",
+      "error": " no está habilitado."
+    },
+    "gate": {
+      "update": "Sistema de entrada actualizado"
+    },
+    "language": {
+      "update": "Se ha actualizado el idioma del servidor a {language}."
+    },
+    "overview": {
+      "serverId": "ID del servidor",
+      "serverName": "Nombre del servidor",
+      "language": "Idioma",
+      "join_channel": "Canal de bienvenida",
+      "leave_channel": "Canal de despedida",
+      "member_role": "Rol de miembro",
+      "bot_role": "Rol de bot",
+      "disabled": "Deshabilitado"
+    },
+    "update": {
+      "success": "Los datos del servidor se han actualizado.",
+      "error": "El servidor ya está actualizado"
+    }
+  },
+  "gate": {
+    "join": {
+      "join": {
+        "message1": "{user} acaba de unirse al servidor - ¡glhf!",
+        "message2": "{user} acaba de unirse. ¡Todos, aparenten estar ocupados!",
+        "message3": "{user} acaba de unirse. ¿Me pueden curar?",
+        "message4": "{user} se unió a tu equipo.",
+        "message5": "{user} se unió. Deben construir puentes adicionales.",
+        "message6": "Ermagherd. {user} está aquí.",
+        "message7": "Bienvenido, {user}. Quédate un rato y escucha.",
+        "message8": "Bienvenido, {user}. Te estábamos esperando ( ͡° ͜ʖ ͡°)",
+        "message9": "Bienvenido, {user}. Esperamos que hayas traído pizza.",
+        "message10": "Bienvenido {user}. Deja tus armas en la puerta.",
+        "message11": "Un {user} salvaje apareció.",
+        "message12": "Swoooosh. {user} acaba de aterrizar.",
+        "message13": "Prepárense. {user} acaba de unirse al servidor.",
+        "message14": "{user} acaba de unirse. Escondan sus plátanos.",
+        "message15": "{user} acaba de llegar. Parece OP, por favor nerf.",
+        "message16": "{user} acaba de deslizarse hacia el servidor.",
+        "message17": "Un {user} ha aparecido en el servidor.",
+        "message18": "¡Apareció Big {user}!",
+        "message19": "¿Dónde está {user}? ¡En el servidor!",
+        "message20": "{user} saltó al servidor. ¡Canguro!",
+        "message21": "{user} acaba de aparecer. Aguanta mi cerveza.",
+        "message22": "¡Apareció un retador - {user}!",
+        "message23": "¡Es un pájaro! ¡Es un avión! Olvídenlo, es solo {user}.",
+        "message24": "¡Es {user}! ¡Alaben al sol!",
+        "message25": "Nunca abandonaré a {user}. Nunca le fallaré.",
+        "message26": "¡Ja! ¡{user} se unió! ¡Activaste mi carta trampa!",
+        "message27": "¡Salud, amor! ¡{user} está aquí!",
+        "message28": "¡Oye! ¡Escucha! ¡{user} se unió!",
+        "message29": "Te estábamos esperando {user}",
+        "message30": "Es peligroso ir solo, lleva a {user} contigo.",
+        "message31": "¡{user} se unió al servidor! ¡Es súper efectivo!",
+        "message32": "¡Salud, amor! ¡{user} está aquí!",
+        "message33": "{user} está aquí, como lo profetizó la leyenda.",
+        "message34": "{user} ha llegado. Se acabó la fiesta.",
+        "message35": "Prepárate jugador {user}",
+        "message36": "{user} está aquí para patear traseros y mascar chicle. Y {user} se quedó sin chicle.",
+        "message37": "Hola. ¿Es a {user} a quien estás buscando?",
+        "message38": "{user} se ha unido. ¡Quédate un rato y escucha!",
+        "message39": "Las rosas son rojas, las violetas son azules, {user} se ha unido a este servidor contigo"
+      },
+      "leave": {
+        "message1": "{user} acaba de abandonar el servidor - ¡adiós!",
+        "message2": "{user} acaba de irse. ¡Todos, despidámoslo!",
+        "message3": "{user} acaba de irse. ¡Hasta pronto!",
+        "message4": "{user} abandonó tu grupo.",
+        "message5": "{user} se ha ido. ¡Hasta luego!",
+        "message6": "Adiós. {user} se ha ido.",
+        "message7": "Adiós, {user}. Hasta que nos volvamos a encontrar.",
+        "message8": "Adiós, {user}. Te echaremos de menos.",
+        "message9": "Adiós {user}. Gracias por pasarte.",
+        "message10": "Un {user} salvaje desapareció.",
+        "message11": "Swoooosh. {user} acaba de irse.",
+        "message12": "Prepárense. {user} acaba de abandonar el servidor.",
+        "message13": "{user} acaba de irse. Cuídate.",
+        "message14": "{user} acaba de partir. ¡Hasta pronto!",
+        "message15": "{user} acaba de salir del servidor.",
+        "message16": "Un {user} ha desaparecido del servidor.",
+        "message17": "¡Se fue el gran {user}!",
+        "message18": "¿Dónde está {user}? ¡No está en el servidor!",
+        "message19": "{user} saltó del servidor. ¡Adiós!",
+        "message20": "{user} acaba de desaparecer. ¡Hasta pronto!",
+        "message21": "¡Desafiante saliendo - {user} se ha ido!",
+        "message22": "¡Es un pájaro! ¡Es un avión! Olvídalo, solo {user} se está yendo.",
+        "message23": "Adiós {user}.",
+        "message24": "Nunca voy a abandonar a {user}. Nunca voy a decirle adiós a {user}.",
+        "message25": "¡Ja! {user} se ha ido. ¡Adiós!",
+        "message26": "¡Salud, amor! {user} se ha ido.",
+        "message27": "¡Oye! ¡Escucha! ¡{user} se ha ido!",
+        "message28": "Te veremos pronto, {user}",
+        "message29": "¡Cuídate, {user}!",
+        "message30": "¡{user} ha abandonado el servidor! ¡Hasta luego!",
+        "message31": "¡Salud, amor! ¡{user} se ha ido!",
+        "message32": "{user} se ha ido, hasta que nos volvamos a encontrar.",
+        "message33": "{user} se ha ido. La fiesta no ha terminado.",
+        "message34": "Adiós jugador {user}",
+        "message35": "{user} se ha ido a patear traseros en otro lugar. ¡Adiós!",
+        "message36": "Adiós. ¿Es a {user} a quien le dices adiós?",
+        "message37": "{user} se ha ido. ¡Adiós por ahora!",
+        "message38": "Las rosas son rojas, las violetas son azules, {user} se fue de este servidor sin ti"
+      }
+    },
+    "interactionCreate": {
+      "cooldown": "¡Por favor detente! Vas demasiado rápido:( Por favor intenta de nuevo ",
+
+      "commandInvalid": "Lo siento, este comando es inválido:( Por favor intenta de nuevo más tarde.",
+      "commandSubInvalid": "Lo siento, este subcomando es inválido:( Por favor intenta de nuevo más tarde.",
+
+      "buttonInvalid": "Lo siento, este botón es inválido:( Por favor intenta de nuevo más tarde.",
+      "buttonInteractionOnly": "¡Este no es tu botón!"
+    },
+    "emit": {
+      "success": "Se ha emitido con éxito ",
+      "error": "El evento que intentas emitir no se pudo activar."
+    },
+    "servers": {
+      "members_owner": "Miembros | Propietario",
+      "server_list": "Lista de servidores",
+      "my_server_list": "Mi lista de servidores "
+    },
+    "gpt": {
+      "prompt": "**Instrucciones:**",
+      "message": "**Sistema**: Instrucciones para **{cUser}**: Por favor responda de manera conversacional y natural, como si estuviera teniendo una conversación con una persona. Es un bot asistente de AI de Discord llamado **{cUser}** desarrollado por **Ducko** en TypeScript con Discord.js. Proporcione diferentes elementos para ayudar a responder la tarea o pregunta. Utilice el formato apropiado de Discord Markdown según el lenguaje de código para distinguir claramente la sintaxis en sus respuestas si tiene que responder cualquier código. A veces, use emojis y abreviaturas como 'np', 'lol', 'idk' y 'nvm' según los mensajes de **{iUser}**. Tiene muchos intereses y le encanta hablar con la gente.\n**Mensajes**:\n- **{iUser}**: {prompt}\n- **{cUser}**:",
+      "reqRejected": "Su solicitud fue rechazada como resultado de nuestro sistema de seguridad. Su instrucción puede contener texto que no está permitido por nuestro sistema de seguridad\n\n**Marcas**: {flagCheck}"
+    },
+    "banner": {
+      "success": "{iUser} tu banner solicitado ha sido creado",
+      "error": "{iUser} No se pudo crear el banner que solicitaste"
+    },
+    "invite": {
+      "message": "¡A continuación se muestran los enlaces de invitación y de Discord!",
+      "bot": "Invitar",
+      "discord": "Discord"
+    },
+    "status": {
+      "ping": "Ping",
+      "uptime": "Tiempo de actividad",
+      "uptime_date": "{days} Días : {hours} Horas : {minutes} Minutos : {seconds} Segundos",
+      "version": "Versión",
+      "library": "Biblioteca",
+      "environment": "Entorno",
+      "stats": "Estadísticas",
+      "users": "Usuarios",
+      "servers": "Servidores",
+      "channels": "Canales",
+      "commands": "Comandos",
+      "buttons": "Botones",
+      "owners": "Dueños de {cUser}",
+      "developers": "Desarrolladores"
+    }
+  }
+}

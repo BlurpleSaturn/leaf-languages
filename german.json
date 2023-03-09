@@ -1,0 +1,159 @@
+{
+  "config": {
+    "delete": {
+      "success": "Erfolgreich deaktiviert ",
+      "error": " ist nicht aktiviert."
+    },
+    "gate": {
+      "update": "Gate-System aktualisiert"
+    },
+    "language": {
+      "update": "Die Sprache des Servers wurde auf {language} aktualisiert."
+    },
+    "overview": {
+      "serverId": "Server-ID",
+      "serverName": "Servername",
+      "language": "Sprache",
+      "join_channel": "Beitrittskanal",
+      "leave_channel": "Austrittskanal",
+      "member_role": "Mitgliedsrolle",
+      "bot_role": "Bot-Rolle",
+      "disabled": "Deaktiviert"
+    },
+    "update": {
+      "success": "Serverdaten wurden aktualisiert.",
+      "error": "Server ist bereits auf dem neuesten Stand."
+    }
+  },
+  "gate": {
+    "join": {
+      "message1": "{user} ist gerade dem Server beigetreten - viel Spaß!",
+      "message2": "{user} ist gerade beigetreten. Jeder, schaut beschäftigt!",
+      "message3": "{user} ist gerade beigetreten. Kann ich eine Heilung bekommen?",
+      "message4": "{user} hat sich deiner Gruppe angeschlossen.",
+      "message5": "{user} ist beigetreten. Du musst zusätzliche Pylonen errichten.",
+      "message6": "Ermagherd. {user} ist hier.",
+      "message7": "Willkommen, {user}. Bleib eine Weile und hör zu.",
+      "message8": "Willkommen, {user}. Wir haben dich erwartet ( ͡° ͜ʖ ͡°)",
+      "message9": "Willkommen, {user}. Wir hoffen, du hast Pizza mitgebracht.",
+      "message10": "Willkommen {user}. Lass deine Waffen an der Tür.",
+      "message11": "Ein wildes {user} ist aufgetaucht.",
+      "message12": "Swoooosh. {user} ist gerade gelandet.",
+      "message13": "Bereitet euch vor. {user} ist gerade dem Server beigetreten.",
+      "message14": "{user} ist gerade beigetreten. Versteckt eure Bananen.",
+      "message15": "{user} ist gerade angekommen. Scheint OP zu sein - bitte nerven.",
+      "message16": "{user} ist gerade in den Server gerutscht.",
+      "message17": "Ein {user} ist im Server aufgetaucht.",
+      "message18": "Großer {user} ist aufgetaucht!",
+      "message19": "Wo ist {user}? Im Server!",
+      "message20": "{user} ist in den Server gehüpft. Känguru!!",
+      "message21": "{user} ist gerade aufgetaucht. Halte mein Bier.",
+      "message22": "Herausforderer nähert sich - {user} ist aufgetaucht!",
+      "message23": "Es ist ein Vogel! Es ist ein Flugzeug! Egal, es ist nur {user}.",
+      "message24": "Es ist {user}! Lobe die Sonne!",
+      "message25": "Ich werde {user} niemals aufgeben. Ich werde {user} niemals im Stich lassen.",
+      "message26": "Ha! {user} ist beigetreten! Du hast meine Fallenkarte aktiviert!",
+      "message27": "Prost, Liebe! {user} ist da!",
+      "message28": "Hey! Hört zu! {user} ist beigetreten!",
+      "message29": "Wir haben auf dich gewartet {user}",
+      "message30": "Es ist gefährlich, alleine loszuziehen. Nimm {user} mit!",
+      "message31": "{user} ist dem Server beigetreten! Es ist super effektiv!",
+      "message32": "Prost, Liebe! {user} ist da!",
+      "message33": "{user} ist da, wie es die Prophezeiung vorhergesagt hat.",
+      "message34": "{user} ist angekommen. Die Party ist vorbei.",
+      "message35": "Bereit Spieler {user}",
+      "message36": "{user} ist hier, um zu kämpfen und Kaugummi zu kauen. Und {user} ist aus Kaugummi.",
+      "message37": "Hallo. Suchst du {user}?",
+      "message38": "{user} ist beigetreten. Bleib eine Weile und hör zu!",
+      "message39": "Rosen sind rot, Veilchen sind blau, {user} ist diesem Server mit dir beigetreten."
+    },
+    "leave": {
+      "message1": "{user} hat den Server verlassen - Tschüss!",
+      "message2": "{user} hat den Server verlassen. Jeder, sagt Tschüss!",
+      "message3": "{user} hat den Server verlassen. Bis bald!",
+      "message4": "{user} hat deine Party verlassen.",
+      "message5": "{user} ist gegangen. Bis später.",
+      "message6": "Auf Wiedersehen. {user} ist weg.",
+      "message7": "Lebwohl, {user}. Bis zum nächsten Mal.",
+      "message8": "Lebwohl, {user}. Wir werden dich vermissen.",
+      "message9": "Auf Wiedersehen {user}. Danke fürs Vorbeischauen.",
+      "message10": "Ein wildes {user} ist verschwunden.",
+      "message11": "Swoooosh. {user} ist gerade abgehoben.",
+      "message12": "Macht euch bereit. {user} hat den Server verlassen.",
+      "message13": "{user} ist gerade gegangen. Pass auf dich auf.",
+      "message14": "{user} ist gerade abgereist. Bis bald.",
+      "message15": "{user} ist gerade aus dem Server verschwunden.",
+      "message16": "Ein {user} ist aus dem Server verschwunden.",
+      "message17": "Groß {user} hat abgehoben!",
+      "message18": "Wo ist {user}? Nicht im Server!",
+      "message19": "{user} ist aus dem Server gehüpft. Auf Wiedersehen!",
+      "message20": "{user} ist gerade verschwunden. Bis bald.",
+      "message21": "Challenger verlässt - {user} hat den Server verlassen!",
+      "message22": "Ist es ein Vogel! Ist es ein Flugzeug! Egal, es ist nur {user} beim Verlassen.",
+      "message23": "Auf Wiedersehen {user}.",
+      "message24": "Ich werde {user} niemals aufgeben. Ich werde niemals Lebewohl zu {user} sagen.",
+      "message25": "Ha! {user} ist gegangen! Auf Wiedersehen!",
+      "message26": "Prost, Liebe! {user} ist weg!",
+      "message27": "Hey! Hört zu! {user} hat den Server verlassen!",
+      "message28": "Wir werden dich bald wiedersehen, {user}",
+      "message29": "Pass auf dich auf, {user}!",
+      "message30": "{user} hat den Server verlassen! Bis später!",
+      "message31": "Prost, Liebe! {user} ist gegangen!",
+      "message32": "{user} ist gegangen, bis wir uns wiedersehen.",
+      "message33": "{user} hat den Server verlassen. Die Party ist noch nicht vorbei.",
+      "message34": "Auf Wiedersehen Spieler {user}",
+      "message35": "{user} ist gegangen, um anderswo den Hintern zu treten. Auf Wiedersehen!",
+      "message36": "Auf Wiedersehen. Verabschiedest du dich von {user}?",
+      "message37": "{user} hat den Server verlassen. Bis bald!",
+      "message38": "Rosen sind rot, Veilchen sind blau, {user} hat diesen Server ohne dich verlassen"
+    }
+  },
+  "interactionCreate": {
+    "cooldown": "Oh bitte hör auf! Du gehst zu schnell:( Bitte versuche es erneut ",
+
+    "commandInvalid": "Entschuldigung, dieser Befehl ist ungültig :( Bitte versuche es später erneut.",
+    "commandSubInvalid": "Entschuldigung, dieser Unterbefehl ist ungültig:( Bitte versuche es später erneut.",
+
+    "buttonInvalid": "Entschuldigung, diese Schaltfläche ist ungültig:( Bitte versuche es später erneut.",
+    "buttonInteractionOnly": "Dies ist nicht deine Schaltfläche!"
+  },
+  "emit": {
+    "success": "Erfolgreich ausgelöst ",
+    "error": "Das Ereignis, das du auslösen möchtest, konnte nicht ausgelöst werden."
+  },
+  "servers": {
+    "members_owner": "Mitglieder | Besitzer",
+    "server_list": "Serverliste",
+    "my_server_list": "Meine Serverliste"
+  },
+  "gpt": {
+    "prompt": "**Anweisung:**",
+    "message": "System: Anweisungen für **{cUser}**: Bitte antworte in einer natürlichen Art und Weise, als würdest du ein Gespräch mit einer Person führen. Du bist ein AI Assistant Discord Bot namens **{cUser}**, entwickelt von **Ducko** in TypeScript mit Discord.js. Biete verschiedene Dinge an, die bei der Beantwortung der Aufgabe oder Frage helfen. Verwende die passende Discord-Markdown-Formatierung in Abhängigkeit von der Code-Sprache, um die Syntax in deinen Antworten klar zu unterscheiden, wenn du einen Code beantworten musst. Verwende manchmal Emojis und Abkürzungen wie 'np', 'lol', 'idk' und 'nvm' in Abhängigkeit von **{iUser}** Nachrichten. Du hast viele Interessen und liebst es, mit Leuten zu reden.\nMitteilungen:\n- **{iUser}**: **{prompt}}- **{cUser}**:",
+    "reqRejected": "Ihre Anfrage wurde aufgrund unseres Sicherheitssystems abgelehnt. Ihre Eingabeaufforderung enthält möglicherweise Text, der von unserem Sicherheitssystem nicht zugelassen wird.\n\n**Flags:** {flagCheck}"
+  },
+  "banner": {
+    "success": "{iUser}, dein angeforderter Banner wurde erstellt",
+    "error": "{iUser}, dein angeforderter Banner konnte nicht erstellt werden"
+  },
+  "invite": {
+    "message": "Einladungs- und Discord-Links befinden sich unten!",
+    "bot": "Einladen",
+    "discord": "Discord"
+  },
+  "status": {
+    "ping": "Ping",
+    "uptime": "Betriebszeit",
+    "uptime_date": "{days} Tage : {hours} Stunden : {minutes} Minuten : {seconds} Sekunden",
+    "version": "Version",
+    "library": "Bibliothek",
+    "environment": "Umgebung",
+    "stats": "Statistiken",
+    "users": "Benutzer",
+    "servers": "Server",
+    "channels": "Kanäle",
+    "commands": "Befehle",
+    "buttons": "Schaltflächen",
+    "owners": "{cUser}'s Besitzer",
+    "developers": "Entwickler"
+  }
+}
