@@ -1,0 +1,159 @@
+{
+  "config": {
+    "delete": {
+      "success": "성공적으로 비활성화했습니다. ",
+      "error": " 활성화되어 있지 않습니다."
+    },
+    "gate": {
+      "update": "게이트 시스템이 업데이트되었습니다."
+    },
+    "language": {
+      "update": "서버의 언어가 {language}(으)로 업데이트되었습니다."
+    },
+    "overview": {
+      "serverId": "서버 ID",
+      "serverName": "서버 이름",
+      "language": "언어",
+      "join_channel": "입장 채널",
+      "leave_channel": "퇴장 채널",
+      "member_role": "멤버 역할",
+      "bot_role": "봇 역할",
+      "disabled": "비활성화됨"
+    },
+    "update": {
+      "success": "서버 데이터가 업데이트되었습니다.",
+      "error": "서버가 이미 최신 상태입니다."
+    }
+  },
+  "gate": {
+    "join": {
+      "message1": "{user} 님이 서버에 참가하셨습니다. 즐거운 시간 보내세요!",
+      "message2": "{user} 님이 서버에 참가하셨습니다. 모두 바쁘게 보이세요!",
+      "message3": "{user} 님이 서버에 참가하셨습니다. 치유부를 구합니다.",
+      "message4": "{user} 님이 파티에 참가하셨습니다.",
+      "message5": "{user} 님이 참가하셨습니다. 추가 파이론을 건설해야 합니다.",
+      "message6": "에르마거드. {user} 님이 여기에 있습니다.",
+      "message7": "{user} 님, 환영합니다. 잠시만 머물러 주시겠어요?",
+      "message8": "{user} 님, 환영합니다. 기다리고 있었습니다 ( ͡° ͜ʖ ͡°)",
+      "message9": "{user} 님, 환영합니다. 피자를 가져오셨나요?",
+      "message10": "{user} 님, 환영합니다. 무기는 문 밖에 놓아주세요.",
+      "message11": "야생의 {user} 님이 나타났습니다.",
+      "message12": "{user} 님이 착륙하셨습니다.",
+      "message13": "{user} 님이 서버에 참가하셨습니다. 준비하세요!",
+      "message14": "{user} 님이 참가하셨습니다. 바나나를 숨겨주세요.",
+      "message15": "{user} 님이 도착하셨습니다. 게임 밸런스가 깨질 수 있습니다.",
+      "message16": "{user} 님이 서버에 슬쩍 들어왔습니다.",
+      "message17": "{user} 님이 서버에 출현했습니다.",
+      "message18": "대단한 {user} 님이 나타났습니다!",
+      "message19": "{user} 님은 어디 있나요? 서버에 계시죠!",
+      "message20": "{user} 님이 서버에 점프했습니다. 캥거루 같아요!",
+      "message21": "{user} 님이 나타났습니다. 맥주를 가져오세요.",
+      "message22": "도전자 출현 - {user} 님이 나타났습니다!",
+      "message23": "새가 날아오릅니다! 비행기가 날아오르는 건 아니고 {user} 님이 도착했습니다.",
+      "message24": "{user} 님이 나타났습니다! 태양을 찬양합니다!",
+      "message25": "약속합니다. {user} 님을 결코 포기하지 않겠습니다. 결코 배신하지 않겠습니다.",
+      "message26": "하! {user} 가입했어요! 나의 트랩카드를 발동시켰군요!",
+      "message27": "만세! {user} 가 왔어요!",
+      "message28": "어서오세요! {user} 가입했어요!",
+      "message29": "{user} 님을 기다리고 있었어요",
+      "message30": "혼자 가기에는 위험해요, {user} 님을 데려가요!",
+      "message31": "{user} 님이 서버에 들어왔습니다! 이건 슈퍼효과에요!",
+      "message32": "만세! {user} 가 왔어요!",
+      "message33": "예언이 이루어졌어요, {user} 님이 왔습니다.",
+      "message34": "{user} 가 도착했어요. 파티는 끝났습니다.",
+      "message35": "레디 플레이어 {user}",
+      "message36": "{user} 가 왔습니다. 엉덩이를 때려주러 왔어요!",
+      "message37": "안녕하세요. {user} 를 찾으시나요?",
+      "message38": "{user} 가입했어요. 잠시만 머물러요!",
+      "message39": "장미는 빨강, 바이올렛은 파랑, {user} 가 이 서버에 당신과 함께 했어요."
+    },
+    "leave": {
+      "message1": "{user} 님이 서버를 나갔습니다 - 안녕!",
+      "message2": "{user} 님이 나갔습니다. 여러분, 안녕하세요!",
+      "message3": "{user} 님이 나갔습니다. 잠시 후 또 봐요!",
+      "message4": "{user} 님이 파티에서 나갔습니다.",
+      "message5": "{user} 님이 나갔습니다. 나중에 봐요!",
+      "message6": "안녕하세요. {user} 님이 떠나셨습니다.",
+      "message7": "안녕히 가세요, {user} 님. 다음에 또 만나요.",
+      "message8": "안녕히 가세요, {user} 님. 그리워할게요.",
+      "message9": "{user} 님, 안녕히 가세요. 들려주셔서 감사합니다.",
+      "message10": "{user} 님이 사라졌습니다.",
+      "message11": "{user} 님이 날아갔습니다.",
+      "message12": "준비하세요. {user} 님이 서버를 떠났습니다.",
+      "message13": "{user} 님이 나갔습니다. 조심히 가세요.",
+      "message14": "{user} 님이 떠나셨습니다. 잠시 후 또 봐요.",
+      "message15": "{user} 님이 서버를 빠져나갔습니다.",
+      "message16": "{user} 님이 서버에서 사라졌습니다.",
+      "message17": "큰 {user} 님이 떠나셨습니다!",
+      "message18": "{user} 님은 어디에 있나요? 서버 안에 없나봐요!",
+      "message19": "{user} 님이 서버에서 뛰어나갔습니다. 안녕하세요!",
+      "message20": "{user} 님이 사라졌습니다. 잠시 후 또 봐요!",
+      "message21": "도전자가 떠나갑니다 - {user} 님이 나갔습니다!",
+      "message22": "새! 비행기! 아니에요, {user} 님이 떠나가네요.",
+      "message23": "{user} 님, 안녕히 가세요.",
+      "message24": "니가 떠나가도, {user} 놓지 않을게.",
+      "message25": "하! {user} 님이 떠나갔습니다! 안녕히!",
+      "message26": "건배, 사랑해! {user} 님이 떠나갔어요!",
+      "message27": "들어봐! {user} 님이 떠나갔어요!",
+      "message28": "{user} 님, 다음에 또 봅시다!",
+      "message29": "{user} 님, 조심하세요!",
+      "message30": "{user} 님이 서버를 떠났습니다! 나중에 봐요!",
+      "message31": "만세! {user}가 떠났어요!",
+      "message32": "{user}이(가) 떠나서 다시 만날 때까지!",
+      "message33": "{user}이(가) 떠났어요. 파티는 끝나지 않았어요.",
+      "message34": "{user}님, 안녕히 가세요!",
+      "message35": "{user}님이 다른 곳에서 열심히 활약할 거에요. 안녕히!",
+      "message36": "안녕하세요. {user}님과 작별인가요?",
+      "message37": "{user}님이 떠나셨어요. 잠시만 이별이에요!",
+      "message38": "장미는 빨강, 제비꽃은 파랑, {user}님은 떠나갔지만 당신은 여기 있죠"
+    }
+  },
+  "interactionCreate": {
+    "cooldown": "어이쿠! 너무 빠릅니다:( 나중에 다시 시도해주세요.",
+
+    "commandInvalid": "죄송합니다. 이 명령어는 유효하지 않습니다:( 나중에 다시 시도해주세요.",
+    "commandSubInvalid": "죄송합니다. 이 하위 명령어는 유효하지 않습니다:( 나중에 다시 시도해주세요.",
+
+    "buttonInvalid": "죄송합니다. 이 버튼은 유효하지 않습니다:( 나중에 다시 시도해주세요.",
+    "buttonInteractionOnly": "이 버튼은 당신의 것이 아닙니다!"
+  },
+  "emit": {
+    "success": "성공적으로 발행되었습니다. ",
+    "error": "발행하려는 이벤트를 실행할 수 없습니다."
+  },
+  "servers": {
+    "members_owner": "멤버 | 소유자",
+    "server_list": "서버 목록",
+    "my_server_list": "내 서버 목록 "
+  },
+  "gpt": {
+    "prompt": "**안내:**",
+    "message": "시스템: **{cUser}**님에게 전달드리는 안내사항입니다. 가능한 자연스러운 대화체로 응답해주세요. **{cUser}**님은 TypeScript와 Discord.js로 개발된 AI 도우미 디스코드 봇입니다. 질문 또는 작업에 대한 답변을 도와주는 다양한 기능을 제공합니다. 코드와 관련된 문법을 명확히 구분하기 위해 Discord markdown 포맷을 사용하여 응답하십시오. **{iUser}**의 메시지에 따라 'np', 'lol', 'idk', 'nvm'과 같은 이모지와 축약어를 사용하기도 합니다. 많은 관심사를 가지고 있으며 사람들과 대화하는 것을 좋아합니다.\n메시지:\n- **{iUser}**: {prompt}\n- **{cUser}**: ",
+    "reqRejected": "안전 시스템으로 인해 요청이 거부되었습니다. 요청한 내용이 안전하지 않은 텍스트를 포함하고 있을 수 있습니다.\n\n**Flags:** {flagCheck}"
+  },
+  "banner": {
+    "success": "{iUser}님, 요청하신 배너가 생성되었습니다.",
+    "error": "{iUser}님, 요청하신 배너를 만들 수 없습니다."
+  },
+  "invite": {
+    "message": "아래에 초대 링크와 디스코드 링크가 있습니다!",
+    "bot": "봇 초대",
+    "discord": "디스코드"
+  },
+  "status": {
+    "ping": "핑",
+    "uptime": "업타임",
+    "uptime_date": "{days}일 {hours}시간 {minutes}분 {seconds}초",
+    "version": "버전",
+    "library": "라이브러리",
+    "environment": "환경",
+    "stats": "통계",
+    "users": "사용자 수",
+    "servers": "서버 수",
+    "channels": "채널 수",
+    "commands": "명령어 수",
+    "buttons": "버튼 수",
+    "owners": "{cUser}님의 오너",
+    "developers": "개발자"
+  }
+}
